@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6, h7{
+    color: white;
+}
+
+body{
+    background-color: slateblue;
+}
+
+p{
+    font-size: 50px;
+    font-weight: 700;
+}
+
+input{
+    border-radius: 5px;
+    width: 500px;
+    border-color: cornsilk;
+    height: 30px;
+}
+
+label{
+    font-weight: bold;
+    font-size: 20px;
+}

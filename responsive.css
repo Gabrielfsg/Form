@@ -1,0 +1,15 @@
+@media (max-width: 500px){
+    #form-home main form{
+        max-width: 400px;
+    }
+
+    input{
+        max-width:370px;
+    }
+}
+
+@media (min-width: 600px){
+    #form-home main form{
+        max-width: 550px;
+    }
+}
