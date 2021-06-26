@@ -1,2 +1,2 @@
 # Form
-A simple form withhtml and css responsive in weigth> 500px
+A simple form with html and css responsive in width > 500px.
